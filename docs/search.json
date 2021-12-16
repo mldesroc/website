@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-12-16T10:50:08-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Madeleine Desrochers",
+      "author": [],
+      "contents": "\n\n          \n          \n          Madeleine Desrochers\n          \n          \n          Home\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Madeleine Desrochers\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            I am a forest ecologist living in the southern Adirondacks and studying forest disturbance detection algorithms at SUNY ESF in Syracuse NY. In my free time you can find me reading YA literature, picking up shiny things and paddling small boats.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Madeleine Desrochers\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Twitter\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              I am a forest ecologist living in the southern Adirondacks and studying forest disturbance detection algorithms at SUNY ESF in Syracuse NY. In my free time you can find me reading YA literature, picking up shiny things and paddling small boats.\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-12-16T10:50:09-05:00"
+    }
+  ],
+  "collections": []
+}

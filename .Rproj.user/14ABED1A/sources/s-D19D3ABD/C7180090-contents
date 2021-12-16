@@ -1,0 +1,12 @@
+name: "."
+title: "Madeleine Desrochers"
+description: |
+  website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: 
+  distill::distill_article:
+    theme: postcards.css
