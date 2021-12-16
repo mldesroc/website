@@ -3,7 +3,7 @@
     "path": "~/Documents/website/postcards.css",
     "project_path": "postcards.css",
     "type": "css",
-    "hash": "0",
+    "hash": "725120295",
     "contents": "",
     "dirty": false,
     "created": 1639668142833.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "68,1",
-        "scrollLine": "56"
+        "cursorPosition": "73,30",
+        "scrollLine": "55"
     },
     "folds": "",
-    "lastKnownWriteTime": 1639668951,
+    "lastKnownWriteTime": 1639673490,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1639668951712,
+    "last_content_update": 1639673490751,
     "read_only": false,
     "read_only_alternatives": []
 }
