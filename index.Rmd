@@ -1,6 +1,6 @@
 ---
 title: "Madeleine Desrochers"
-image: "maddie.jpeg"
+image: "my_face.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/madeleine-desrochers-040435222/"
@@ -15,4 +15,16 @@ output:
   postcards::trestles
 ---
  
-I am a forest ecologist living in the southern Adirondacks and studying forest disturbance detection algorithms at SUNY ESF in Syracuse NY. In my free time you can find me reading YA literature, picking up shiny things and paddling small boats. 
+## Bio
+
+I am a Master's Student at the State University of New York's College of Environmental Science and Forestry in [Dr. Colin Beier's lab](https://www.esf.edu/faculty/beier/index.php) studying forest disturbance detection algorithms and their applications in the forestry sector. I live in the Southern Adirondacks, where in my free time you can find me reading, knitting and paddling small boats. 
+
+## Education
+
+**SUNY College of Environmental Science & Forestry** | Syracuse, NY
+
+    M.S. in Forest Resources Management | August 2021 - Present
+
+**SUNY College of Environmental Science & Forestry** | Syracuse, NY
+
+    B.S. in Forest Ecosystem Science | August 2017 - May 2023

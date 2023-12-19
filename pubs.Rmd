@@ -1,0 +1,19 @@
+---
+title: "Publications"
+output: 
+    html_document:
+        css: "postcards.css"
+---
+
+---
+
+### 2023
+
+Johnson, L. K., Mahoney, M. J., **Desrochers, M. L.**, and Beier, C. M. Mapping historical forest biomass for stock-change assessments at parcel to landscape scales. _Forest Ecology and Management_, 546, 121348. https://doi.org/10.1016/j.foreco.2023.121348
+
+
+### 2022
+
+**Desrochers, M. L.**, Tripp, W., Logan, S., Bevilacqua, E., Johnson, L., & Beier, C. M. (2022). Ground-Truthing Forest Change Detection Algorithms in Working Forests of the US Northeast. _Journal of Forestry_ fvab075. https://doi.org/10.1093/jofore/fvab075
+
+<br>
