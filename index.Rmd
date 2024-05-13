@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/mldesroc"
   - label: Email
-    url: "mailto:mldesroc@syr.edu"
+    url: "mailto:mdesrochers11@gmail.com"
 site: distill::distill_website
 output:
   postcards::trestles
@@ -17,14 +17,14 @@ output:
  
 ## Bio
 
-I am a Master's Student at the State University of New York's College of Environmental Science and Forestry in [Dr. Colin Beier's lab](https://www.esf.edu/faculty/beier/index.php) studying forest disturbance detection algorithms and their applications in the forestry sector. I live in the Southern Adirondacks, where in my free time you can find me reading, knitting and paddling small boats. 
+I've just wrapped up my Masters at the State University of New York's College of Environmental Science and Forestry in [Dr. Colin Beier's lab](https://www.esf.edu/faculty/beier/index.php) where I leveraged by experience with the forestry industry and my ecology background to study forest disturbance detection algorithms and their applications in the forestry sector. I now live in the Southern Adirondacks, where in my free time you can find me reading, knitting and paddling small boats. 
 
 ## Education
 
 **SUNY College of Environmental Science & Forestry** | Syracuse, NY
 
-    M.S. in Forest Resources Management | August 2021 - Present
+    M.S. in Forest Resources Management | May 2023
 
 **SUNY College of Environmental Science & Forestry** | Syracuse, NY
 
-    B.S. in Forest Ecosystem Science | August 2017 - May 2023
+    B.S. in Forest Ecosystem Science | May 2021
